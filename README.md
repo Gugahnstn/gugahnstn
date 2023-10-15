@@ -1,4 +1,4 @@
-### Olá, Desenvolvedores(as)!! 👋
+# Hi! Developers! 👋
 ```rs
 gustavonogueira@archlinux ~> cat main.rs
 \\
