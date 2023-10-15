@@ -6,11 +6,11 @@ gustavonogueira@archlinux ~> cat main.rs
 fn me() {
   println!("Welcome to my Profile!");
 
-  const name: &str = "Gustavo Nogueira";
-  const years: &str = "17";
-  const skills: &str = "Software Developer, Web Developer";
-  const technology: &str = "Javascript, C/C++, Pyhton, SQL, Git, Linux";
-  const languages: &str = " Portuguese, English";
+  const NAME: &str = "Gustavo Nogueira";
+  const YEARS: &str = "17";
+  const SKILLS: &str = "Software Developer, Web Developer";
+  const TECHNOLGY: &str = "Javascript, C/C++, Pyhton, SQL, Git, Linux";
+  const LANGUAGES: &str = " Portuguese, English";
 };
 
 fn main() {
